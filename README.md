@@ -13,15 +13,13 @@
 - [Instalação](#-instalação)
 - [Como Usar](#-como-usar)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
 
 ---
 
 ## 🚀 Demonstração
 
 <p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Demonstra%C3%A7%C3%A3o+da+interface+Spotify+Playlist+Downloader" alt="Demonstração da Interface" />
+<img src="https://raw.githubusercontent.com/raminhuk/spotdl-next/refs/heads/master/public/exemplo.png" alt="Demonstração da Interface" />
 </p>
 
 ---
