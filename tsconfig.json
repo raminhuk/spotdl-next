@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
+    "target": "es2015", // ou "es2020" para suporte moderno
+    "downlevelIteration": true, // Permite o uso de iteradores modernos
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
